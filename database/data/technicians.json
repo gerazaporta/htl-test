@@ -1,0 +1,5 @@
+[
+    { "first_name":  "TechnicianA", "last_name":  "LastNameA", "truck_number":  1 },
+    { "first_name":  "TechnicianB", "last_name":  "LastNameB", "truck_number":  2 },
+    { "first_name":  "TechnicianC", "last_name":  "LastNameC", "truck_number":  3 }
+]

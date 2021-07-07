@@ -1,0 +1,5 @@
+[
+    { "year":  "2019", "make":  "Make A", "model":  "Model A", "vin":  12345 },
+    { "year":  "2020", "make":  "Make B", "model":  "Model B", "vin":  23456 },
+    { "year":  "2021", "make":  "Make C", "model":  "Model C", "vin":  34567 }
+]
